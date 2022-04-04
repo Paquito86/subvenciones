@@ -80,5 +80,5 @@ Y hacerlo de forma cooperativa, reuniendo esfuerzos y capacidades en torno a un 
 - JuanMa Cuevas ([@juanmacuevas](https://twitter.com/juanmacuevas)), programador python & android. _hacktivista_ aficionado.
 - Yago F. ([@yaguetoo](https://github.com/yagueto)), programador Python y Java.
 - Pedro J. Molina ([@pjmolina](https://github.com/pjmolina)), programador TypeScript, Docker y dotNet.
-- Álvaro Díaz. ([@Paquito86](https://github.com/Paquito86)), Ingeniero DevOps Junior.
+- Álvaro Díaz ([@Paquito86](https://github.com/Paquito86)), Ingeniero DevOps Junior.
 - …
